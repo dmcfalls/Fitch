@@ -1,2 +1,2 @@
-# Fitch
-Automated Fitch Proof Generator
+# Automated Fitch Proof Generator
+
